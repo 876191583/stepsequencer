@@ -6,7 +6,7 @@ int tempo;
 int s1 = 32;
 
 int cha = 1;
-int C4midi = 60;
+int C4midi = 64;
 int F4midi = 66;
 
 
