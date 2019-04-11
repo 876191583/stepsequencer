@@ -5,7 +5,7 @@ int potS =  A16;
 int tempo;
 int s1 = 32;
 
-int cha = 1;
+int cha = 2;
 int C4midi = 64;
 int F4midi = 66;
 
